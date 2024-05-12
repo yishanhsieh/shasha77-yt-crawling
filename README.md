@@ -17,7 +17,7 @@ output: 77yt_titles.csv
 output: 77yt_jieba_result.csv
 
 # Tableau
-完成作品: [shasha 77 Youtube Analysis](https://public.tableau.com/app/profile/yi.shan.hsieh/viz/shasha77/Dashboard1)
+完成作品: [shasha 77 Youtube Analysis](https://public.tableau.com/app/profile/yi.shan.hsieh/viz/shasha77/Dashboard1) </br>
 第一次在Tableau上用中文創作，發現中文最大問題就是字體選擇少，而且在profile頁面thumbnail無法顯示中文，變成框框。
 
 # 參考資料
