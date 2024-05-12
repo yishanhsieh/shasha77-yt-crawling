@@ -10,10 +10,11 @@
 
 # Python爬蟲
 檔案: crawl.ipynb </br>
-output: 77yt_titles.csv
+output: youtube_videos_details.csv
 
 # Jieba
 檔案: jieba-yt.ipynb </br>
+input: 77yt_titles.csv
 output: 77yt_jieba_result.csv
 
 # Tableau
